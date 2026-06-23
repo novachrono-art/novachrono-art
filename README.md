@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tilak</h1>
 <h3 align="center">An Aspiring Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Java • DSA • Spring Boot**
+- 🌱 I’m currently learning **Java • DSA • Spring Boot •FSD**
 -  ✨ Creating bugs since 2024 👨‍💻
 - 🎯 Goals: Crack internships, solve 500+ coding problems, and become a skilled software engineer
-- 🌱 I’m currently learning **Java • DSA • Spring Boot •FSD**
+  
 - ⚡ Fun fact **I spend more time debugging than writing code.**
 - 📫 How to reach me **tilakrajawat004@gmail.com**
 
